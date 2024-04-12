@@ -6,14 +6,21 @@ using System.Threading.Tasks;
 
 namespace Assessments
 {
-     class Vehicle
+    public class Vehicle
     {
         public void addFuel()
         {
             Console.WriteLine("add Fuel");
         }
     }
-   
+
+    public class Car : Vehicle 
+    {
+        public void addFuel()
+        {
+            Console.WriteLine("Petrol");
+        }
+    }
     public class VehicleDemo
     {
         static void Main(string[] args)
