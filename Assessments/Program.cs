@@ -48,3 +48,67 @@
 
 
 //Console.WriteLine($"Hello {name} , your age is {age} and salary is {salary}");
+
+//using Assessments;
+
+//Employee emp=new Employee();
+
+//emp.Assign();
+//emp.CalculateSalary();
+//string result = emp.Display();
+//Console.WriteLine(result);
+
+//Employee emp2 = new Employee();
+
+//emp2.Accept(2, "Kriti", 10000.64, 5000.36, 1000.00);
+//emp2.CalculateSalary();
+//Console.WriteLine(emp2.Display());
+
+//using Assessments;
+
+//Student s1 = new Student();
+//Console.WriteLine(s1.Display());
+
+//Student s2 = new Student(2, "Kriti");
+//Console.WriteLine(s2.Display());
+
+//Date d1 = new Date();
+//Date d2 = new Date(13, "April", 2024);
+
+//.WriteLine(d1.Display());
+//Console.WriteLine(d2.Display());
+
+//using Assessments;
+
+//Product p1=new Product();
+//p1.Code = 101;
+//p1.Name = "keyboard";
+//p1.Price = 2499;
+
+//Console.WriteLine($"{p1.Code},{p1.Name},{p1.Price}");
+
+//property initializer syntax
+//Products p1=new Products();
+//p1.Code = 101;
+//p1.Name = "Mouse";
+//p1.Description = "Elecronic";
+//Console.WriteLine($"{p1.Code},{p1.Name},{p1.Description}");
+
+////object intializer syntax
+
+//Products p2 = new Products { Code = 102, Name = "Keyboard", Description = "Elecronic" };
+//Console.WriteLine($"{p2.Code},{p2.Name},{p2.Description}");
+
+//using Assessments;
+
+//property initializer syntax
+//Book b1=new Book();
+//b1.Id = 101;
+//b1.Title = "Java";
+//b1.Price = 1000;
+
+//Console.WriteLine($"{ b1.Id},{ b1.Title},{ b1.Price}");
+
+////object initializer syntax
+//Book b2 = new Book { Id=102,Title="C#",Price=999 };
+//Console.WriteLine($"{b2.Id},{b2.Title},{b2.Price}");
