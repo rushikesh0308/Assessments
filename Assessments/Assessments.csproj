@@ -5,7 +5,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Assessments.AreaOfCircle</StartupObject>
+    <StartupObject>Assessments.LabAssignment.ShoppingDemo</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="LoopAssignment\" />
+  </ItemGroup>
 
 </Project>
