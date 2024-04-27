@@ -5,11 +5,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Assessments.LabAssignment.ShoppingDemo</StartupObject>
+    <StartupObject>Assessments.StringAssignment.Que19</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="LoopAssignment\" />
+    <Folder Include="StaticMethodAssignment\" />
   </ItemGroup>
 
 </Project>
