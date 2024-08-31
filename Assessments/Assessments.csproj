@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Assessments.StringAssignment.Que19</StartupObject>
+    <StartupObject>Assessments.Mock.ArrayPractise</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
